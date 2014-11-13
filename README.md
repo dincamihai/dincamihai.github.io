@@ -78,13 +78,13 @@ April 2012 – October 2013 (1 year 7 months)
     * sources: https://github.com/eea/Products.Reportek
     * stack: Zope (python framework)
     * my contribution to the project:
-        * develop new features based on the customer specifications
+        * develop new features based on the customer's specifications
         * refactoring old code
         * convert DTML templates to ZPT
         * customer support and bug fixing
 
 * Central Data Repository Converters
-    * description: internal API service for convertion of files between various formats   
+    * description: internal API service for convertion of files between various formats
     * sources: https://github.com/eea/reportek-converters
     * stack: Flask (python microframework)
     * my contribution:
@@ -97,7 +97,7 @@ April 2012 – October 2013 (1 year 7 months)
 Education
 ---------
 ---
-###University Politehnica Bucharest
+###University Politehnica of Bucharest
 2000 – 2006
 
 Engineer's degree, Electrical, Electronics and Communications Engineering
