@@ -1,11 +1,14 @@
-#Mihai Dincă - Resume
-###Contact
+Mihai Dincă - Resume
+====================
+Contact
+-------
 ---
 - **Email**: dincamihai@gmail.com
 - **Github**: https://github.com/dincamihai
 - **Linkedin**: http://ro.linkedin.com/in/mdinca
 
-###Summary
+Summary
+-------
 ---
 The technology involved in the projects I've worked on was/is:
 
@@ -16,15 +19,16 @@ The technology involved in the projects I've worked on was/is:
 * Jenkins, Sentry
 * GIT and SVN (through git-svn)
 
-###Experience
+Experience
+----------
 ---
-#####Web Developer - Freelancer
+###Web Developer - Freelancer
 October 2013 – Present
 * Working to improve the API for a commercial Django service to allow integration with clients and partners.
 * Identifying and refactoring the key aspects of the application before they turn into a huge drawback for extending the service.
 * Participating in improving the development workflow to allow Continuous Integration.
 
-######Projects
+####Projects
 * [Video Interviewing Platform]
  * stack: Django, MySQL, Celery
  * my contribution:
@@ -54,10 +58,10 @@ October 2013 – Present
     * add functional tests
     * small frontend contribution (Angular.js)
 
-#####Wed Developer - [Eau de Web]
+###Wed Developer - [Eau de Web]
 April 2012 – October 2013 (1 year 7 months)
 
-######Projects
+####Projects
 * [Digital Agenda]
  * sources: https://github.com/eaudeweb/scoreboard.visualization
  * stack:
@@ -90,9 +94,10 @@ April 2012 – October 2013 (1 year 7 months)
     * migrate the existing conversion tools and scripts to the service
     * tweak and create new converters (eg: convert map files to jpg)
 
-###Education
+Education
+---------
 ---
-#####University Politehnica Bucharest
+###University Politehnica Bucharest
 2000 – 2006
 
 Engineer's degree, Electrical, Electronics and Communications Engineering
