@@ -117,6 +117,6 @@ Education
 
 University Politehnica of Bucharest
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-2000 – 2006
+2002 – 2008
 
 Engineer's degree, Electrical, Electronics and Communications Engineering
