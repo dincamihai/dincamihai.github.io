@@ -7,9 +7,10 @@
 Contact
 -------
 
-- **Email**: `dincamihai@gmail.com`
+- **Email**: dincamihai@gmail.com
 - **Github**: https://github.com/dincamihai
 - **Linkedin**: http://ro.linkedin.com/in/mdinca
+
 
 Summary
 -------
