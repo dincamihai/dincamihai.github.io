@@ -1,6 +1,4 @@
 ---
-title: Resume
-layout: post
 ---
 
 |me| Mihai Dincă - Resume
