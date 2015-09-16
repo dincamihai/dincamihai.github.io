@@ -70,7 +70,7 @@ Projects
     * add functional tests
     * small frontend contribution (Angular.js)
 
-Wed Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
+Web Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 April 2012 – October 2013 (1 year 7 months)
 
