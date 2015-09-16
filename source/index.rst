@@ -1,13 +1,12 @@
-|me| Mihai Dincă - Resume
-=========================
-
-.. |me| image:: ./assets/me-small.png
+Mihai Dincă - Resume
+==================================
 
 
 Contact
 -------
 
 - **Email**: dincamihai@gmail.com
+- **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
 - **Linkedin**: http://ro.linkedin.com/in/mdinca
 
