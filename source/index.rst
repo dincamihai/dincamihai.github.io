@@ -24,8 +24,8 @@ The technology involved in the projects I've worked on was/is:
 * GIT and SVN (through git-svn)
 
 
-Experience
-----------
+Experience - Web Development
+----------------------------
 
 Web Developer - Freelancer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -112,11 +112,61 @@ Central Data Repository Converters
     * migrate the existing conversion tools and scripts to the service
     * tweak and create new converters (eg: convert map files to jpg)
 
+Experience - Aircraft Maintenance
+---------------------------------
+
+Base Maintenance A320 - Meridiana Maintenance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+October 2011 – December 2011 (3 months)
+
+Responsibilities
+
+* "C" Check tasks
+
+Aircraft Engineer - Jetran Air
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+October 2011 – December 2011 (3 years 5 months)
+
+Responsibilities
+
+* Reliability Reports
+* Training Manager
+* Boeing Primary Focal
+
+Engineering Referent - Jetran Asset Management
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+November 2006 - June 2008 (1 year 8 months)
+
+Responsibilities
+
+* Network and System Administrator
+* Boeing Primary Focal
+
+
 Education
 ---------
 
-University Politehnica of Bucharest
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Courses
+^^^^^^^
+
+* Trainee OJT A318/319/320/321 CFM-56 - TAROM
+* B2 Part-66 License
+* Airbus A320 - B2 Course
+
+Degrees
+^^^^^^^
+
+Information Engineering Degree
+""""""""""""""""""""""""""""""
+Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
 
-Engineer's degree, Electrical, Electronics and Communications Engineering
+
+Aid Programmer - Level 2
+""""""""""""""""""""""""
+"I.L. Caragiale" College of Bucharest
+1998 - 2002
+
+* Informatics (Pascal, SQL)
+* Mathematics
+* Physics
