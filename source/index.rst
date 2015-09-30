@@ -168,6 +168,6 @@ Aid Programmer - Level 2
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
 
-* Informatics (Pascal, SQL)
+* Informatics (Pascal, SQL, Data Structures, Algorithms)
 * Mathematics
 * Physics
