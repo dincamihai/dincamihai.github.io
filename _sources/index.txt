@@ -27,8 +27,8 @@ The technology involved in the projects I've worked on was/is:
 Experience - Web Development
 ----------------------------
 
-Web Developer - Freelancer
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Web Developer
+^^^^^^^^^^^^^
 October 2013 – Present
 
 * Working to improve the API for a commercial Django service to allow integration with clients and partners.
