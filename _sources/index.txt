@@ -27,9 +27,15 @@ The technology involved in the projects I've worked on was/is:
 Experience - Web Development
 ----------------------------
 
+Python Developer
+^^^^^^^^^^^^^^^^
+October 2015 – Present
+
+* Back-end developer at `iMedicare <https://imedicare.com/>`_
+
 Web Developer
 ^^^^^^^^^^^^^
-October 2013 – Present
+October 2013 – September 2015
 
 * Working to improve the API for a commercial Django service to allow integration with clients and partners.
 * Identifying and refactoring the key aspects of the application before they turn into a huge drawback for extending the service.
