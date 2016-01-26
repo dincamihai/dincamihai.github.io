@@ -1,5 +1,5 @@
 Mihai Dincă - Resume
-==================================
+====================
 
 
 Contact
@@ -16,11 +16,13 @@ Summary
 
 The technology involved in the projects I've worked on was/is:
 
-* Python frameworks: Flask, Zope, Django
+* Python frameworks: Flask, Django, Zope
 * Postgres, hstore, MongoDB, Redis
 * Javascript (Backbone-js, Underscore-js, JQuery, Highcharts)
 * Jinja as template engine for Flask, ZPT and DTML for Zope and Handlebars for JS
 * Jenkins, Sentry
+* Vagrant, Saltstack
+* Peewee ORM
 * GIT and SVN (through git-svn)
 
 
@@ -29,17 +31,25 @@ Experience - Web Development
 
 Python Developer
 ^^^^^^^^^^^^^^^^
-October 2015 – Present
+Back-end developer at  `iMedicare <https://imedicare.com/>`_ October 2015 – Present
 
-* Back-end developer at `iMedicare <https://imedicare.com/>`_
+* Help building the APIs used by the front-end
+* Improve the search performance by using Postgresql fulltext search scoring feature
+* Perform DB queries performance comparisons for optimisation purposes
 
 Web Developer
 ^^^^^^^^^^^^^
 October 2013 – September 2015
 
-* Working to improve the API for a commercial Django service to allow integration with clients and partners.
-* Identifying and refactoring the key aspects of the application before they turn into a huge drawback for extending the service.
-* Participating in improving the development workflow to allow Continuous Integration.
+* Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
+* Entirely responsible for implementing the authentication, permissions and structure of the API
+* Optimize DB queries where required
+* Document the API behaviour for developers and non-technical persons with BDD tests (Cucumber style)
+* Build REST APIs to support the front-end
+* Identify and refactor the key aspects of the application before they would become a blocking issue for extending the service
+* Participate in improving the development workflow to better organize the tasks and allow Continuous Integration
+* Implement front-end features with MVC structure for preparing and displaying the data obtained from the API
+* Write BDD tests for front-end
 
 Projects
 """"""""
@@ -54,7 +64,7 @@ Projects
    - improve the development workflow
    - fix bugs
    - implement new functionality
-   - add BDD style tests for permissions to serve as documentation
+   - add BDD style tests for permissions to serve as documentation and better organisation of the tests
 
 
 `Hotel Maintenance Platform <http://roomchecking.com>`_
