@@ -5,7 +5,7 @@ Mihai Dincă - Resume
 Contact
 -------
 
-- **Online Resume**: dincamihai.github.io
+- **Online Resume**: https://dincamihai.github.io
 - **Email**: dincamihai@gmail.com
 - **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
