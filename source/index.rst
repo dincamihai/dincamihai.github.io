@@ -146,7 +146,8 @@ October 2011 – December 2011 (3 years 5 months)
 
 Responsibilities
 
-* Reliability Reports
+* Reliability Reports - I've built a Java web app to generate the reports
+* Network and System Administrator
 * Training Manager
 * Boeing Primary Focal
 
@@ -178,12 +179,29 @@ Information Engineering Degree
 Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
 
+Relevant Courses
+****************
+
+* Java
+* C
+* Parallel programming with POSIX C
+* Matlab
+* Operating Systems
+* Computer Architecture
+* Computer Networks
+* PHP
+
 
 Aid Programmer - Level 2
 """"""""""""""""""""""""
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
 
-* Informatics (Pascal, SQL, Data Structures, Algorithms)
+Relevant Courses
+****************
+
+* Pascal
+* FoxPro
+* Data Structures and Algorithms
 * Mathematics
 * Physics
