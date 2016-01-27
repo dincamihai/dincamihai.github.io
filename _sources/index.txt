@@ -50,43 +50,43 @@ Projects
 `iMedicare <https://imedicare.com/>`_
 *************************************
 
-* stack: Flask, Peewee, PostgreSQL, PQ
+* stack: Flask, Peewee, PostgreSQL
 * my contribution:
-  * Help building the APIs used by the front-end
-  * Improve the search performance by using Postgresql fulltext search scoring feature
-  * Perform DB queries performance comparisons for optimisation purposes
+    + Help building the APIs used by the front-end
+    + Improve the search performance by using Postgresql fulltext search scoring feature
+    + Perform DB queries performance comparisons for optimisation purposes
 
 `Video Interviewing Platform <http://viasto.com>`_
 **************************************************
 * stack: Django, MySQL, Celery
 * my contribution:
-  * build the API using Django Rest Framework
-  * improve the permission system
-  * refactor and fix large parts of the code
-  * improve the development workflow
-  * fix bugs
-  * implement new functionality
-  * add BDD style tests for permissions to serve as documentation and better organisation of the tests
+    + build the API using Django Rest Framework
+    + improve the permission system
+    + refactor and fix large parts of the code
+    + improve the development workflow
+    + fix bugs
+    + implement new functionality
+    + add BDD style tests for permissions to serve as documentation and better organisation of the tests
 
 
 `Hotel Maintenance Platform <http://roomchecking.com>`_
 *******************************************************
 * stack:
-  * frontend: backbone.js, marionette.js, coffeescript
+    + frontend: backbone.js, marionette.js, coffeescript
 * my contribution:
-  * build a calendar application to show the hotel rooms and their state
-  * implement filtering and sorting capabilities
-  * create a state machine wizard to allow json configuration of the states
+    + build a calendar application to show the hotel rooms and their state
+    + implement filtering and sorting capabilities
+    + create a state machine wizard to allow json configuration of the states
 
 
 `AgriPlace <http://www.agriplace.org>`_
 ***************************************
 * stack: Django, Angular.js, MySQL, coffescript
 * my contribution:
-  * add various features based on the client's specifications
-  * build the API
-  * add functional tests
-  * small frontend contribution (Angular.js)
+    + add various features based on the client's specifications
+    + build the API
+    + add functional tests
+    + small frontend contribution (Angular.js)
 
 Web Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -99,24 +99,24 @@ Projects
 **************************************************
 * sources: https://github.com/eaudeweb/scoreboard.visualization
 * stack:
-  * frontend: backbone * highcharts
-  * backend: Plone (python framework) and Virtuoso(RDF database)
+    + frontend: backbone   + highcharts
+    + backend: Plone (python framework) and Virtuoso(RDF database)
 * my contribution:
-  * develop chart customization wizard features (frontend)
-  * develop json configurable chart types (frontend)
-  * process and prepare data before passing it to charts (frontend)
-  * add required API backends (backend)
-  * write SPARQL queries to retrieve data from DB using Jinja templates (backend)
+    + develop chart customization wizard features (frontend)
+    + develop json configurable chart types (frontend)
+    + process and prepare data before passing it to charts (frontend)
+    + add required API backends (backend)
+    + write SPARQL queries to retrieve data from DB using Jinja templates (backend)
 
 `Central Data Repository <http://cdr.eionet.europa.eu/>`_
 *********************************************************
 * sources: https://github.com/eea/Products.Reportek
 * stack: Zope (python framework)
 * my contribution to the project:
-  * develop new features based on the customer's specifications
-  * refactoring old code
-  * convert DTML templates to ZPT
-  * customer support and bug fixing
+    + develop new features based on the customer's specifications
+    + refactoring old code
+    + convert DTML templates to ZPT
+    + customer support and bug fixing
 
 Central Data Repository Converters
 **********************************
@@ -124,11 +124,11 @@ Central Data Repository Converters
 * sources: https://github.com/eea/reportek-converters
 * stack: Flask (python microframework)
 * my contribution:
-  * create the API
-  * support JSON configuration
-  * integrate with [Central Data Repository]
-  * migrate the existing conversion tools and scripts to the service
-  * tweak and create new converters (eg: convert map files to jpg)
+    + create the API
+    + support JSON configuration
+    + integrate with [Central Data Repository]
+    + migrate the existing conversion tools and scripts to the service
+    + tweak and create new converters (eg: convert map files to jpg)
 
 
 Experience - Aircraft Maintenance
