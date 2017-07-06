@@ -25,14 +25,25 @@ The technology involved in the projects I've worked on was/is:
 * Vagrant, Saltstack
 * Peewee ORM
 * GIT and SVN (through git-svn)
+* Salt (orchestration and configuration management)
+* Docker, systemd-nspawn containers
 
 
 Experience - Web Development
 ----------------------------
 
+Python Developer
+^^^^^^^^^^^^^^^^
+April 2016 - Present
+
+* Package (using OBS), develop and maintain OpenSUSE's Salt package
+* Develop and maintain tool to automatically test the Salt package on supported operating systems using Docker containers
+* Fix bugs and minor changes in SUSE Manager - Java component
+* Help improving scalability and performance
+
 Web Developer
 ^^^^^^^^^^^^^
-October 2013 – Present
+October 2013 – April 2016
 
 * Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
 * Entirely responsible for implementing the authentication, permissions and structure of the API
