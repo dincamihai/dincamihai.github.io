@@ -27,6 +27,7 @@ The technology involved in the projects I've worked on was/is:
 * GIT and SVN (through git-svn)
 * Salt (orchestration and configuration management)
 * Docker, systemd-nspawn containers
+* Machine Learning (Tensorflow, octave)
 
 
 Experience - Web Development
@@ -183,6 +184,13 @@ Courses
 * Trainee OJT A318/319/320/321 CFM-56 - TAROM
 * B2 Part-66 License
 * Airbus A320 - B2 Course
+* Scrum Training - SUSE
+* Statistics and Probability - KhanAcademy
+* C++ - sololearn
+* C++ for programmers - Udacity
+* Coursera - Machine Learning - Andrew Ng
+* Coursera - deeplearning.ai - Andrew Ng
+* Udacity - Self-Driving Car Engineer (in progress)
 
 Degrees
 ^^^^^^^
@@ -203,6 +211,7 @@ Relevant Courses
 * Computer Architecture
 * Computer Networks
 * PHP
+* Statistics and Probability
 
 
 Aid Programmer - Level 2
