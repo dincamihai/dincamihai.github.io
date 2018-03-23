@@ -29,6 +29,8 @@ The technology involved in the projects I've worked on was/is:
 * Docker, systemd-nspawn containers
 * Machine Learning (Tensorflow, octave)
 
+`[See the courses section] <https://github.com/dincamihai/dincamihai.github.io/blob/master/source/index.rst#courses>`_
+
 
 Experience - Web Development
 ----------------------------
