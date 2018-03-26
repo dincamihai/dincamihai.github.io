@@ -191,7 +191,11 @@ Courses
 * C++ - sololearn
 * C++ for programmers - Udacity
 * Coursera - Machine Learning - Andrew Ng
-* Coursera - deeplearning.ai - Andrew Ng
+* `[Coursera - Neural Networks and Deep Learning] <https://www.coursera.org/account/accomplishments/verify/F6BHNA4DES46>`_
+* `[Coursera - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization] <https://www.coursera.org/account/accomplishments/verify/Z4VXQ6SED9PM>`_
+* `[Coursera - Structuring Machine Learning Projects] <https://www.coursera.org/account/accomplishments/verify/W3VLWUVCTTG5>`_
+* `[Coursera - Convolutional Neural Networks] <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
+* `[Coursera - Sequence Models] <https://www.coursera.org/account/accomplishments/verify/SFVSAU7DWRP5>`_
 * Udacity - Self-Driving Car Engineer (in progress)
 
 Degrees
