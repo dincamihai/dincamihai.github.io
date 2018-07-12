@@ -15,19 +15,36 @@ Contact
 Summary
 -------
 
+I'm a Python developer with some experience in Javascript and Java and C++ hacking skills.
+I'm very interested in Machine Learning and Data Analysis.
+
 The technology involved in the projects I've worked on was/is:
 
-* Python frameworks: Flask, Django, Zope
-* Postgres, hstore, MongoDB, Redis
-* Javascript (Backbone-js, Underscore-js, JQuery, Highcharts)
-* Jinja as template engine for Flask, ZPT and DTML for Zope and Handlebars for JS
-* Jenkins, Sentry
-* Vagrant, Saltstack
-* Peewee ORM
-* GIT and SVN (through git-svn)
-* Salt (orchestration and configuration management)
-* Docker, systemd-nspawn containers
-* Machine Learning (Tensorflow, octave)
+Web Dev:
+    + Python:
+      - Flask, Django, Zope
+      - Jinja, ZPT and DTML for Zope and Handlebars for JS
+      - Peewee
+    + Javascript:
+      - Backbone-js, Underscore-js, JQuery, Highcharts
+
+Machine Learning and Data Analysis:
+    + Scikit-learn, Tensorflow, Keras
+    + Pandas, Numpy
+    + Matplotlib, Seaborn, Folium, Jupiter Notebook
+    + OpenCV
+
+DB:
+    + Postgres, hstore
+    + MongoDB
+    + Redis
+
+Other:
+    + GIT and SVN (through git-svn)
+    + Vagrant, terraform
+    + Salt (orchestration and configuration management)
+    + Docker, systemd-nspawn containers
+    + Jenkins, Sentry
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
 
@@ -39,9 +56,10 @@ Python Developer
 ^^^^^^^^^^^^^^^^
 April 2016 - Present
 
-* Package (using OBS), develop and maintain OpenSUSE's Salt package
-* Develop and maintain tool to automatically test the Salt package on supported operating systems using Docker containers
-* Fix bugs and minor changes in SUSE Manager - Java component
+* Work on integrating Salt with SUSE Manager
+* Develop, package and maintain the Salt package for SUSE and OpenSUSE
+* Test the Salt package on SUSE Manager supported OSs using Docker
+* Fix bugs and implement features in SUSE Manager - Java component
 * Help improving scalability and performance
 
 Web Developer
