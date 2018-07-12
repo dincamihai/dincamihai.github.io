@@ -201,20 +201,23 @@ Education
 Courses
 ^^^^^^^
 
-* Trainee OJT A318/319/320/321 CFM-56 - TAROM
-* B2 Part-66 License
-* Airbus A320 - B2 Course
-* Scrum Training - SUSE
-* Statistics and Probability - KhanAcademy
-* C++ - sololearn
-* C++ for programmers - Udacity
-* Coursera - Machine Learning - Andrew Ng
-* `Coursera - Neural Networks and Deep Learning <https://www.coursera.org/account/accomplishments/verify/F6BHNA4DES46>`_
-* `Coursera - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <https://www.coursera.org/account/accomplishments/verify/Z4VXQ6SED9PM>`_
-* `Coursera - Structuring Machine Learning Projects <https://www.coursera.org/account/accomplishments/verify/W3VLWUVCTTG5>`_
-* `Coursera - Convolutional Neural Networks <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
+* Coursera - Data Visualization with Python
+* Coursera - Data Analysis with Python
+* Coursera - Python for Applied Data Science
+* Udacity - Self-Driving Car Engineer (Term1 completed)
 * `Coursera - Sequence Models <https://www.coursera.org/account/accomplishments/verify/SFVSAU7DWRP5>`_
-* Udacity - Self-Driving Car Engineer (in progress)
+* `Coursera - Convolutional Neural Networks <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
+* `Coursera - Structuring Machine Learning Projects <https://www.coursera.org/account/accomplishments/verify/W3VLWUVCTTG5>`_
+* `Coursera - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <https://www.coursera.org/account/accomplishments/verify/Z4VXQ6SED9PM>`_
+* `Coursera - Neural Networks and Deep Learning <https://www.coursera.org/account/accomplishments/verify/F6BHNA4DES46>`_
+* Coursera - Machine Learning - Andrew Ng
+* C++ for programmers - Udacity
+* C++ - sololearn
+* Statistics and Probability - KhanAcademy
+* Scrum Training - SUSE
+* Airbus A320 - B2 Course
+* B2 Part-66 License
+* Trainee OJT A318/319/320/321 CFM-56 - TAROM
 
 Degrees
 ^^^^^^^
