@@ -21,30 +21,41 @@ I'm very interested in Machine Learning and Data Analysis.
 The technology involved in the projects I've worked on was/is:
 
 Web Dev:
+
     + Python:
+
       - Flask, Django, Zope
-      - Jinja, ZPT and DTML for Zope and Handlebars for JS
+      - Jinja
       - Peewee
+      - pytest, Nose
+
     + Javascript:
-      - Backbone-js, Underscore-js, JQuery, Highcharts
+
+      - Backbone-js, Underscore-js, JQuery, Highcharts, Handlebars
 
 Machine Learning and Data Analysis:
+
     + Scikit-learn, Tensorflow, Keras
     + Pandas, Numpy
     + Matplotlib, Seaborn, Folium, Jupiter Notebook
     + OpenCV
+    + Hadoop, MapReduce
 
 DB:
+
     + Postgres, hstore
     + MongoDB
     + Redis
 
 Other:
-    + GIT and SVN (through git-svn)
-    + Vagrant, terraform
+
     + Salt (orchestration and configuration management)
     + Docker, systemd-nspawn containers
+    + libvirt, Vagrant, terraform
+    + Java and C++ hacking skills
     + Jenkins, Sentry
+    + Packaging
+    + GIT
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
 
