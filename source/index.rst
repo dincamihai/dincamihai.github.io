@@ -20,7 +20,7 @@ I'm very interested in Machine Learning and Data Analysis.
 
 The technology involved in the projects I've worked on was/is:
 
-Web Dev:
+Web Development:
 
     + Python:
 
@@ -33,6 +33,12 @@ Web Dev:
 
       - Backbone-js, Underscore-js, JQuery, Highcharts, Handlebars
 
+    + DB:
+
+      - Postgres, hstore
+      - MongoDB
+      - Redis
+
 Machine Learning and Data Analysis:
 
     + Scikit-learn, Tensorflow, Keras
@@ -40,12 +46,6 @@ Machine Learning and Data Analysis:
     + Matplotlib, Seaborn, Folium, Jupiter Notebook
     + OpenCV
     + Hadoop, MapReduce
-
-DB:
-
-    + Postgres, hstore
-    + MongoDB
-    + Redis
 
 Other:
 
@@ -58,6 +58,14 @@ Other:
     + GIT
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
+
+
+Languages
+---------
+
+    - English - Full professional proficiency
+    - German - Professional working proficiency
+    - Italian - Professional working proficiency
 
 
 Experience - Web Development
@@ -230,13 +238,16 @@ Courses
 * B2 Part-66 License
 * Trainee OJT A318/319/320/321 CFM-56 - TAROM
 
+
 Degrees
 ^^^^^^^
+
 
 Information Engineering Degree
 """"""""""""""""""""""""""""""
 Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
+
 
 Relevant Courses
 ****************
@@ -256,6 +267,7 @@ Aid Programmer - Level 2
 """"""""""""""""""""""""
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
+
 
 Relevant Courses
 ****************
