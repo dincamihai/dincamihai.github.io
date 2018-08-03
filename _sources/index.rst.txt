@@ -1,185 +1,124 @@
-Mihai Dincă - Resume
-====================
+Mihai Dincă - Lebenslauf
+========================
 
 
-Contact
+Kontakt
 -------
 
-- **Online Resume**: https://dincamihai.github.io
 - **Email**: dincamihai@gmail.com
 - **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
 - **Linkedin**: http://ro.linkedin.com/in/mdinca
 
 
-Summary
--------
+Kurzfassung
+-----------
 
-I'm a Python developer with some experience in Javascript and Java and C++ hacking skills.
-I'm very interested in Machine Learning and Data Analysis.
+Ich bin ein Python Entwikler mit Javascript, Java und C++ Fähigkeiten und Erfahrung mit Machine Learning und Datenanalyse.
 
-The technology involved in the projects I've worked on was/is:
+Die Technologien die ich verwendet habe:
 
-Web Development:
+Webentwiklung:
 
-    + Python:
+    + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
+    + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
+    + DB: Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis
 
-      - Flask, Django, Zope
-      - Jinja
-      - Peewee
-      - pytest, Nose
-
-    + Javascript:
-
-      - Backbone-js, Underscore-js, JQuery, Highcharts, Handlebars
-
-    + DB:
-
-      - Postgres, hstore
-      - MongoDB
-      - Redis
-
-Machine Learning and Data Analysis:
+Machine Learning und Datenanalyse:
 
     + Scikit-learn, Tensorflow, Keras
     + Pandas, Numpy
     + Matplotlib, Seaborn, Folium, Jupiter Notebook
     + OpenCV
     + Hadoop, MapReduce
+    + Octave
+    + Google Cloud, IBM Cloud
 
-Other:
+Sonstiges:
 
-    + Salt (orchestration and configuration management)
+    + Salt (Orchestrierung und Konfigurationsmanagement)
     + Docker, systemd-nspawn containers
-    + libvirt, Vagrant, terraform
-    + Java and C++ hacking skills
+    + libvirt, Vagrant, Terraform
+    + Java und C++
+    + GraphQL
+    + RabbitMQ
     + Jenkins, Sentry
     + Packaging
+    + Celery
     + GIT
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
 
 
-Languages
+Sprachen
 ---------
 
-    - English - Full professional proficiency
-    - German - Professional working proficiency
-    - Italian - Professional working proficiency
+    - English - fortgeschritten
+    - German - mittel
+    - Italian - mittel
 
 
-Experience - Web Development
+Erfahrung - Webentwiklung
 ----------------------------
 
-Python Developer
-^^^^^^^^^^^^^^^^
-April 2016 - Present
+Entwikler
+^^^^^^^^^
+April 2016 - Heute
 
-* Work on integrating Salt with SUSE Manager
-* Develop, package and maintain the Salt package for SUSE and OpenSUSE
-* Test the Salt package on SUSE Manager supported OSs using Docker
-* Fix bugs and implement features in SUSE Manager - Java component
-* Help improving scalability and performance
+* SUSE Manager und Salt Integration
+* entwiklen, testen, verpacken und warten das Salt Paket von SUSE
+* SUSE Manager - Fehler behoben und neue Funktionen implementieren (Java)
+* Skalierbarkeit und Leistung verbessern
+* Kundenbetreuung
 
-Web Developer
-^^^^^^^^^^^^^
-October 2013 – April 2016
+Selbständiger Webentwikler
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Oktober 2013 – April 2016 (2 Jahre 6 Monate)
 
-* Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
-* Entirely responsible for implementing the authentication, permissions and structure of the API
-* Optimize DB queries where required
-* Document the API behaviour for developers and non-technical persons with BDD tests (Cucumber style)
-* Build REST APIs to support the front-end
-* Identify and refactor the key aspects of the application before they would become a blocking issue for extending the service
-* Participate in improving the development workflow to better organize the tasks and allow Continuous Integration
-* Implement front-end features with MVC structure for preparing and displaying the data obtained from the API
-* Write BDD tests for front-end
+* entwikeln ein REST Hyperlinked API für Integration mit Partnerleistungen und Frontend
+* voll zuständig für die Umsetzung der Authentifizierung, Berechtigunge und Structur des API
+* Datenbankabfragenleistung vergleichen und optimieren (MySQL und Postgresql)
+* Postgresql Volltextsuchefunktion Anwendung
+* API Dokumentierung
+* Refaktorierung
+* sich beteiligen an der Verbesserung des Entwiklungsworkflow und Organisierung der Arbeitaufgaben um kontinuierliche Integration zu ermöglichen
+* umsetzen front-end Funktionen mit MVC Struktur
+  + interaktives Charts, Kalender, JSON konfiegurierbarer Setup-Assistent, Filterung, Sortierung
+* aufbauen die Javascript BDD Testsuite
 
-Projects
-""""""""
+Projekte:
 
-`iMedicare <https://imedicare.com/>`_
-*************************************
+    - `Video Interviewing Platform <http://viasto.com>`_
+    - `iMedicare <https://imedicare.com/>`_
+    - `Hotel Maintenance Platform <http://roomchecking.com>`_
+    - `AgriPlace <http://www.agriplace.org>`_
 
-* stack: Flask, Peewee, PostgreSQL
-* my contribution:
-    + Help building the APIs used by the front-end
-    + Improve the search performance by using Postgresql fulltext search scoring feature
-    + Perform DB queries performance comparisons for optimisation purposes
-
-`Video Interviewing Platform <http://viasto.com>`_
-**************************************************
-* stack: Django, MySQL, Celery
-* my contribution:
-    + build the API using Django Rest Framework
-    + improve the permission system
-    + refactor and fix large parts of the code
-    + improve the development workflow
-    + fix bugs
-    + implement new functionality
-    + add BDD style tests for permissions to serve as documentation and better organisation of the tests
-
-
-`Hotel Maintenance Platform <http://roomchecking.com>`_
-*******************************************************
-* stack:
-    + frontend: backbone.js, marionette.js, coffeescript
-* my contribution:
-    + build a calendar application to show the hotel rooms and their state
-    + implement filtering and sorting capabilities
-    + create a state machine wizard to allow json configuration of the states
-
-
-`AgriPlace <http://www.agriplace.org>`_
-***************************************
-* stack: Django, Angular.js, MySQL, coffescript
-* my contribution:
-    + add various features based on the client's specifications
-    + build the API
-    + add functional tests
-    + small frontend contribution (Angular.js)
-
-Web Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
+Webentwikler - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-April 2012 – October 2013 (1 year 7 months)
+April 2012 – Oktober 2013 (1 Jahr 7 Monate)
 
-Projects
+* entwiklen API Backends
+* entwiklen SPARQL Datenbankabfragen
+* Daten Vorverarbeitung
+* entwiklen einen Gestaltung-Assisten für Charts (JSON Konfiguration)
+* Umsetzung von neue Funktionen entsprechend der Spezifikationen der Kunden
+* Kundenbetreuung und Fehler behoben
+* Refaktorierung
+
+Projekte
 """"""""
 
-`Digital Agenda <http://digital-agenda-data.eu/>`_
-**************************************************
-* sources: https://github.com/eaudeweb/scoreboard.visualization
-* stack:
-    + frontend: backbone   + highcharts
-    + backend: Plone (python framework) and Virtuoso(RDF database)
-* my contribution:
-    + develop chart customization wizard features (frontend)
-    + develop json configurable chart types (frontend)
-    + process and prepare data before passing it to charts (frontend)
-    + add required API backends (backend)
-    + write SPARQL queries to retrieve data from DB using Jinja templates (backend)
+- `Digital Agenda <http://digital-agenda-data.eu/>`_
+  + sources: https://github.com/eaudeweb/scoreboard.visualization
+  + stack: backbone + highcharts, Plone and Virtuoso
 
-`Central Data Repository <http://cdr.eionet.europa.eu/>`_
-*********************************************************
-* sources: https://github.com/eea/Products.Reportek
-* stack: Zope (python framework)
-* my contribution to the project:
-    + develop new features based on the customer's specifications
-    + refactoring old code
-    + convert DTML templates to ZPT
-    + customer support and bug fixing
+- `Central Data Repository <http://cdr.eionet.europa.eu/>`_
+  + sources: https://github.com/eea/Products.Reportek
+  + stack: Zope
 
-Central Data Repository Converters
-**********************************
-* description: internal API service for convertion of files between various formats
-* sources: https://github.com/eea/reportek-converters
-* stack: Flask (python microframework)
-* my contribution:
-    + create the API
-    + support JSON configuration
-    + integrate with [Central Data Repository]
-    + migrate the existing conversion tools and scripts to the service
-    + tweak and create new converters (eg: convert map files to jpg)
+- Central Data Repository Converters
+  + sources: https://github.com/eea/reportek-converters
+  + stack: Flask
 
 
 Experience - Aircraft Maintenance
@@ -187,38 +126,30 @@ Experience - Aircraft Maintenance
 
 Base Maintenance A320 - Meridiana Maintenance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-October 2011 – December 2011 (3 months)
-
-Responsibilities
-
-* "C" Check tasks
+Oktober 2011 – Dezember 2011 (3 Monate)
 
 Aircraft Engineer - Jetran Air
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-October 2011 – December 2011 (3 years 5 months)
+October 2011 – December 2011 (3 Jahre 5 Monate)
 
-Responsibilities
-
-* Reliability Reports - I've built a Java web app to generate the reports
-* Network and System Administrator
-* Training Manager
-* Boeing Primary Focal
+* Ausbildungsleiter
+* Boeing Kommunikation Kontaktperson
+* Zuverlässigkeitberichen
+* Netzwerk and Systembetreuer
 
 Engineering Referent - Jetran Asset Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-November 2006 - June 2008 (1 year 8 months)
+November 2006 - Juni 2008 (1 Jahr 8 Monate)
 
-Responsibilities
-
-* Network and System Administrator
-* Boeing Primary Focal
+* Boeing Kommunikation Kontaktperson
+* Netzwerk and Systembetreuer
 
 
-Education
----------
+Ausbildung
+----------
 
-Courses
-^^^^^^^
+Kurse
+^^^^^
 
 * Coursera - Data Visualization with Python
 * Coursera - Data Analysis with Python
@@ -243,14 +174,10 @@ Degrees
 ^^^^^^^
 
 
-Information Engineering Degree
+Information Engineering Diplom
 """"""""""""""""""""""""""""""
 Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
-
-
-Relevant Courses
-****************
 
 * Java
 * C
@@ -267,10 +194,6 @@ Aid Programmer - Level 2
 """"""""""""""""""""""""
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
-
-
-Relevant Courses
-****************
 
 * Pascal
 * FoxPro
