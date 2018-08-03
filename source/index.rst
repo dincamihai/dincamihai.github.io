@@ -105,20 +105,16 @@ April 2012 – Oktober 2013 (1 Jahr 7 Monate)
 * Kundenbetreuung und Fehler behoben
 * Refaktorierung
 
-Projekte
-""""""""
+Projekte:
 
-- `Digital Agenda <http://digital-agenda-data.eu/>`_
-  + sources: https://github.com/eaudeweb/scoreboard.visualization
-  + stack: backbone + highcharts, Plone and Virtuoso
+    - `Digital Agenda <http://digital-agenda-data.eu/>`_
+      * sources: https://github.com/eaudeweb/scoreboard.visualization
 
-- `Central Data Repository <http://cdr.eionet.europa.eu/>`_
-  + sources: https://github.com/eea/Products.Reportek
-  + stack: Zope
+    - `Central Data Repository <http://cdr.eionet.europa.eu/>`_
+      * sources: https://github.com/eea/Products.Reportek
 
-- Central Data Repository Converters
-  + sources: https://github.com/eea/reportek-converters
-  + stack: Flask
+    - Central Data Repository Converters
+      * sources: https://github.com/eea/reportek-converters
 
 
 Experience - Aircraft Maintenance
