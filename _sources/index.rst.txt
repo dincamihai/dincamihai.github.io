@@ -14,7 +14,9 @@ Kontakt
 Kurzfassung
 -----------
 
-Ich bin ein Python Entwikler mit Javascript, Java und C++ Fähigkeiten und Erfahrung mit Machine Learning und Datenanalyse.
+Ich bin ein Diplom-Ingenieur für Informationstechnik mit Erfahrung in Webentwicklung, Systemprogrammierung, APIs und maschinelles Lernen (traditionelles und Deep-learning).
+Hauptsächlich verwende ich Python, aber ich habe auch Javascript (Front-end), Java und C++ Fähigkeiten.
+Ich bin auch in Teamorganisation und Prozessverbesserung sehr engagiert und ich bin imstande um komplexe Tätigkeiten zu dekomponieren, schätzen und, die Umsetzung mit einem Team, zu koordinieren.
 
 Die Technologien die ich verwendet habe:
 
@@ -105,20 +107,16 @@ April 2012 – Oktober 2013 (1 Jahr 7 Monate)
 * Kundenbetreuung und Fehler behoben
 * Refaktorierung
 
-Projekte
-""""""""
+Projekte:
 
-- `Digital Agenda <http://digital-agenda-data.eu/>`_
-  + sources: https://github.com/eaudeweb/scoreboard.visualization
-  + stack: backbone + highcharts, Plone and Virtuoso
+    - `Digital Agenda <http://digital-agenda-data.eu/>`_
+      * sources: https://github.com/eaudeweb/scoreboard.visualization
 
-- `Central Data Repository <http://cdr.eionet.europa.eu/>`_
-  + sources: https://github.com/eea/Products.Reportek
-  + stack: Zope
+    - `Central Data Repository <http://cdr.eionet.europa.eu/>`_
+      * sources: https://github.com/eea/Products.Reportek
 
-- Central Data Repository Converters
-  + sources: https://github.com/eea/reportek-converters
-  + stack: Flask
+    - Central Data Repository Converters
+      * sources: https://github.com/eea/reportek-converters
 
 
 Experience - Aircraft Maintenance
