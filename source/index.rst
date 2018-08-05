@@ -22,7 +22,7 @@ Ich bin auch in Teamorganisation und Prozessverbesserung sehr engagiert und ich 
 
 Die Technologien die ich verwendet habe:
 
-Webentwiklung:
+Webentwicklung:
 
     + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
     + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
@@ -62,21 +62,21 @@ Sprachen
     - Italian - mittel
 
 
-Erfahrung - Webentwiklung
+Erfahrung - Webentwicklung
 ----------------------------
 
-Entwikler
-^^^^^^^^^
+Entwickler
+^^^^^^^^^^
 April 2016 - Heute
 
 * SUSE Manager und Salt Integration
-* entwiklen, testen, verpacken und warten das Salt Paket von SUSE
+* entwickeln, testen, verpacken und warten das Salt Paket von SUSE
 * SUSE Manager - Fehler behoben und neue Funktionen implementieren (Java)
 * Skalierbarkeit und Leistung verbessern
 * Kundenbetreuung
 
-Selbständiger Webentwikler
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Selbständiger Webentwikcler
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Oktober 2013 – April 2016 (2 Jahre 6 Monate)
 
 * entwikeln ein REST Hyperlinked API für Integration mit Partnerleistungen und Frontend
@@ -85,7 +85,7 @@ Oktober 2013 – April 2016 (2 Jahre 6 Monate)
 * Postgresql Volltextsuchefunktion Anwendung
 * API Dokumentierung
 * Refaktorierung
-* sich beteiligen an der Verbesserung des Entwiklungsworkflow und Organisierung der Arbeitaufgaben um kontinuierliche Integration zu ermöglichen
+* sich beteiligen an der Verbesserung des Entwicklungsworkflow und Organisierung der Arbeitaufgaben um kontinuierliche Integration zu ermöglichen
 * umsetzen front-end Funktionen mit MVC Struktur
   + interaktives Charts, Kalender, JSON konfiegurierbarer Setup-Assistent, Filterung, Sortierung
 * aufbauen die Javascript BDD Testsuite
@@ -97,14 +97,14 @@ Projekte:
     - `Hotel Maintenance Platform <http://roomchecking.com>`_
     - `AgriPlace <http://www.agriplace.org>`_
 
-Webentwikler - `Eau de Web <http://www.eaudeweb.ro/>`_
+Webentwickler - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 April 2012 – Oktober 2013 (1 Jahr 7 Monate)
 
-* entwiklen API Backends
-* entwiklen SPARQL Datenbankabfragen
+* entwickeln API Backends
+* entwickeln SPARQL Datenbankabfragen
 * Daten Vorverarbeitung
-* entwiklen einen Gestaltung-Assisten für Charts (JSON Konfiguration)
+* entwickeln einen Gestaltung-Assisten für Charts (JSON Konfiguration)
 * Umsetzung von neue Funktionen entsprechend der Spezifikationen der Kunden
 * Kundenbetreuung und Fehler behoben
 * Refaktorierung
