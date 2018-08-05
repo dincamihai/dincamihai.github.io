@@ -15,7 +15,9 @@ Kurzfassung
 -----------
 
 Ich bin ein Diplom-Ingenieur für Informationstechnik mit Erfahrung in Webentwicklung, Systemprogrammierung, APIs und maschinelles Lernen (traditionelles und Deep-learning).
+
 Hauptsächlich verwende ich Python, aber ich habe auch Javascript (Front-end), Java und C++ Fähigkeiten.
+
 Ich bin auch in Teamorganisation und Prozessverbesserung sehr engagiert und ich bin imstande um komplexe Tätigkeiten zu dekomponieren, schätzen und, die Umsetzung mit einem Team, zu koordinieren.
 
 Die Technologien die ich verwendet habe:
