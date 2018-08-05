@@ -75,11 +75,11 @@ April 2016 - Heute
 * Skalierbarkeit und Leistung verbessern
 * Kundenbetreuung
 
-Selbständiger Webentwikcler
+Selbständiger Webentwickler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Oktober 2013 – April 2016 (2 Jahre 6 Monate)
 
-* entwikeln ein REST Hyperlinked API für Integration mit Partnerleistungen und Frontend
+* entwickeln ein REST Hyperlinked API für Integration mit Partnerleistungen und Frontend
 * voll zuständig für die Umsetzung der Authentifizierung, Berechtigunge und Structur des API
 * Datenbankabfragenleistung vergleichen und optimieren (MySQL und Postgresql)
 * Postgresql Volltextsuchefunktion Anwendung
@@ -172,7 +172,6 @@ Kurse
 
 Degrees
 ^^^^^^^
-
 
 Information Engineering Diplom
 """"""""""""""""""""""""""""""
