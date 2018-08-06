@@ -170,22 +170,19 @@ Kurse
 * Trainee OJT A318/319/320/321 CFM-56 - TAROM
 
 
-Degrees
-^^^^^^^
+Abschluss
+^^^^^^^^^
 
 Information Engineering Diplom
 """"""""""""""""""""""""""""""
 Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
 
-* Java
-* C
+* Java, C, PHP, Matlab
 * Parallel programming with POSIX C
-* Matlab
 * Operating Systems
 * Computer Architecture
 * Computer Networks
-* PHP
 * Statistics and Probability
 
 
@@ -194,8 +191,6 @@ Aid Programmer - Level 2
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
 
-* Pascal
-* FoxPro
+* Pascal, FoxPro
 * Data Structures and Algorithms
-* Mathematics
-* Physics
+* Mathematics, Physics
