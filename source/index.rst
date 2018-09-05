@@ -17,10 +17,14 @@ Summary
 
 
 I am an Engineer with a diploma in Information Engineering.
+
 I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
+
 I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge.
-I am very engaged in organizing the team and improving the processes.
-I am able to decompose complex tasks, evaluate, implement and coordinate with a team.
+
+Engaged in organizing the team, always trying to improve the work processes.
+
+Able to decompose complex tasks, evaluate, implement and coordinate with the team.
 
 The technologies I have worked with:
 
