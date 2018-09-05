@@ -15,10 +15,10 @@ Contact
 Summary
 -------
 
-I'm a Python developer with some experience in Javascript and Java and C++ hacking skills.
+I'm a Python developer with additional experience in Java and Javascript and C++ hacking skills.
 I'm very interested in Machine Learning and Data Analysis.
 
-The technology involved in the projects I've worked on was/is:
+Technology involved in the projects I've worked on:
 
 Web Development:
 
@@ -63,9 +63,9 @@ Other:
 Languages
 ---------
 
-    - English - Full professional proficiency
-    - German - Professional working proficiency
-    - Italian - Professional working proficiency
+    - English - Advanced
+    - German - Intermediary
+    - Italian - Intermediary
 
 
 Experience - Web Development
@@ -220,9 +220,13 @@ Education
 Courses
 ^^^^^^^
 
-* Coursera - Data Visualization with Python
-* Coursera - Data Analysis with Python
-* Coursera - Python for Applied Data Science
+* `IBM - Applied Data Science Specialist <https://www.youracclaim.com/profile/badges/d8161db4-e51d-4914-8f0c-895481fba561>`_
+* `Coursera - IBM - Advanced Machine Learning and Signal Processing <https://www.coursera.org/account/accomplishments/verify/9BEMXNW7YM8D>`_
+* `Coursera - IBM - Fundamentals of Scalable Data Science <https://www.coursera.org/account/accomplishments/verify/P6ECMC9KJMQX>`_
+* `Coursera - IBM - Applied Data Science Capstone <https://www.coursera.org/account/accomplishments/verify/2NSFRX6K8GDJ>`_
+* `Coursera - IBM - Data Visualization with Python <https://www.coursera.org/account/accomplishments/verify/CR3DJYXKARLJ>`_
+* `Coursera - IBM - Data Analysis with Python <https://www.coursera.org/account/accomplishments/verify/JHVJ4DYQHSUZ>`_
+* `Coursera - IBM - Python for Applied Data Science <https://www.coursera.org/account/accomplishments/verify/DC2V8ERPZ7ZK>`_
 * Udacity - Self-Driving Car Engineer (Term1 completed)
 * `Coursera - Sequence Models <https://www.coursera.org/account/accomplishments/verify/SFVSAU7DWRP5>`_
 * `Coursera - Convolutional Neural Networks <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
