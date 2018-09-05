@@ -15,47 +15,45 @@ Contact
 Summary
 -------
 
-I'm a Python developer with additional experience in Java and Javascript and C++ hacking skills.
-I'm very interested in Machine Learning and Data Analysis.
 
-Technology involved in the projects I've worked on:
+I am an Engineer with a diploma in Information Engineering.
+I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
+I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge.
+I am very engaged in organizing the team and improving the processes.
+I am able to decompose complex tasks, evaluate, implement and coordinate with a team.
+
+The technologies I have worked with:
 
 Web Development:
 
-    + Python:
-
-      - Flask, Django, Zope
-      - Jinja
-      - Peewee
-      - pytest, Nose
-
-    + Javascript:
-
-      - Backbone-js, Underscore-js, JQuery, Highcharts, Handlebars
-
-    + DB:
-
-      - Postgres, hstore
-      - MongoDB
-      - Redis
+    + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
+    + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
+    + DB: Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
 
 Machine Learning and Data Analysis:
 
-    + Scikit-learn, Tensorflow, Keras
+    + Scikit-learn, Tensorflow, Keras, SystemML
     + Pandas, Numpy
-    + Matplotlib, Seaborn, Folium, Jupiter Notebook
+    + Matplotlib, Seaborn, Plotly, Folium, Jupiter Notebook
     + OpenCV
+    + Apache Spark
     + Hadoop, MapReduce
+    + Octave
+    + Google Cloud, IBM Cloud
 
-Other:
+Others:
 
-    + Salt (orchestration and configuration management)
+    + Salt (Orchestrierung und Konfigurationsmanagement)
     + Docker, systemd-nspawn containers
-    + libvirt, Vagrant, terraform
-    + Java and C++ hacking skills
+    + libvirt, Vagrant, Terraform
+    + Java und C++
+    + GraphQL
+    + RabbitMQ
     + Jenkins, Sentry
     + Packaging
+    + Celery
     + GIT
+
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
 
