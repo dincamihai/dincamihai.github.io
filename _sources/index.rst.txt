@@ -41,8 +41,7 @@ Machine Learning und Datenanalyse:
 Sonstiges:
 
     + Salt (Orchestrierung und Konfigurationsmanagement)
-    + Docker, systemd-nspawn containers
-    + libvirt, Vagrant, Terraform
+    + Docker, systemd-nspawn containers, libvirt, Vagrant, Terraform
     + Java und C++
     + GraphQL
     + RabbitMQ
@@ -65,9 +64,9 @@ Sprachen
 Erfahrung - Webentwicklung
 ----------------------------
 
-Entwickler
-^^^^^^^^^^
-April 2016 - Heute
+Entwickler - SUSE Linux
+^^^^^^^^^^^^^^^^^^^^^^^
+April 2016 - Heute [Nürnberg, Deutschland]
 
 * SUSE Manager und Salt Integration
 * entwickeln, testen, verpacken und warten das Salt Paket von SUSE
@@ -151,9 +150,36 @@ Ausbildung
 Kurse
 ^^^^^
 
-* Coursera - Data Visualization with Python
-* Coursera - Data Analysis with Python
-* Coursera - Python for Applied Data Science
+* `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
+
+* `Advanced Machine Learning with TensorFlow on Google Cloud Platform <https://www.coursera.org/account/accomplishments/specialization/AZYPMX7BU4VW>`_:
+
+  + End-to-End Machine Learning with TensorFlow on GCP
+  + Production Machine Learning Systems
+  + Image Understanding with TensorFlow on GCP
+  + Sequence Models for Time Series and Natural Language Processing
+  + Recommendation Systems with TensorFlow on GCP
+* `Machine Learning with TensorFlow on Google Cloud Platform <https://www.coursera.org/account/accomplishments/specialization/BPYBPMJXFAJE>`_:
+
+  + How Google does Machine Learning
+  + Launching into Machine Learning
+  + Intro to TensorFlow
+  + Feature Engineering
+  + Art and Science of Machine Learning
+
+* `IBM - Advanced Data Science with <https://www.coursera.org/account/accomplishments/specialization/HLAWAX72THAH>`_:
+
+  + Fundamentals of Scalable Data Science
+  + Advanced Machine Learning and Signal Processing
+  + Applied AI with DeepLearning
+  + Advanced Data Science Capstone
+* `IBM - Applied Data Science <https://www.coursera.org/account/accomplishments/specialization/K4RRRVGC8J45>`_:
+
+  + Python for Data Science
+  + Data Analysis with Python
+  + Data Visualization with Python
+  + Applied Data Science Capstone
+
 * Udacity - Self-Driving Car Engineer (Term1 completed)
 * `Coursera - Sequence Models <https://www.coursera.org/account/accomplishments/verify/SFVSAU7DWRP5>`_
 * `Coursera - Convolutional Neural Networks <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
