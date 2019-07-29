@@ -20,11 +20,15 @@ I am an Engineer with a diploma in Information Engineering.
 
 I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
 
-I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge.
+I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge
+
+Recently, I've started to expand my knowledge with Golang and Scala - Functional Programming.
 
 Engaged in organizing the team, always trying to improve the work processes.
 
 Able to decompose complex tasks, evaluate, implement and coordinate with the team.
+
+Since I'm interested in Machine Learning and Data Science, I have invested significant time to learn about these topics.
 
 The technologies I have worked with:
 
@@ -47,12 +51,12 @@ Machine Learning and Data Analysis:
 
 Others:
 
-    + Salt (Orchestrierung und Konfigurationsmanagement)
-    + Docker, systemd-nspawn containers
+    + Salt (Orchestration and Configuration Management)
+    + Docker, systemd-nspawn containers, libvirt, Vagrant, Terraform
     + libvirt, Vagrant, Terraform
-    + Java und C++
+    + Java and C++
     + GraphQL
-    + RabbitMQ
+    + RabbitMQ, ZeroMQ
     + Jenkins, Sentry
     + Packaging
     + Celery
@@ -82,6 +86,7 @@ April 2016 - Present
 * Test the Salt package on SUSE Manager supported OSs using Docker
 * Fix bugs and implement features in SUSE Manager - Java component
 * Help improving scalability and performance
+* Debug complex setups consisting of multiple running services and distributed systems
 
 Web Developer
 ^^^^^^^^^^^^^
@@ -121,7 +126,6 @@ Projects
     + implement new functionality
     + add BDD style tests for permissions to serve as documentation and better organisation of the tests
 
-
 `Hotel Maintenance Platform <http://roomchecking.com>`_
 *******************************************************
 * stack:
@@ -131,7 +135,6 @@ Projects
     + implement filtering and sorting capabilities
     + create a state machine wizard to allow json configuration of the states
 
-
 `AgriPlace <http://www.agriplace.org>`_
 ***************************************
 * stack: Django, Angular.js, MySQL, coffescript
@@ -140,6 +143,7 @@ Projects
     + build the API
     + add functional tests
     + small frontend contribution (Angular.js)
+
 
 Web Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -222,6 +226,8 @@ Education
 Courses
 ^^^^^^^
 
+* `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
+* `Programming with Google Go Specialization <https://www.coursera.org/account/accomplishments/specialization/certificate/F6QTTASXTQBY>`_
 * `IBM - Applied Data Science Specialist <https://www.youracclaim.com/profile/badges/d8161db4-e51d-4914-8f0c-895481fba561>`_
 * `Coursera - IBM - Advanced Machine Learning and Signal Processing <https://www.coursera.org/account/accomplishments/verify/9BEMXNW7YM8D>`_
 * `Coursera - IBM - Fundamentals of Scalable Data Science <https://www.coursera.org/account/accomplishments/verify/P6ECMC9KJMQX>`_
