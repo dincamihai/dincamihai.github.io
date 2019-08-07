@@ -15,34 +15,81 @@ Contact
 Summary
 -------
 
-The technology involved in the projects I've worked on was/is:
 
-* Python frameworks: Flask, Django, Zope
-* Postgres, hstore, MongoDB, Redis
-* Javascript (Backbone-js, Underscore-js, JQuery, Highcharts)
-* Jinja as template engine for Flask, ZPT and DTML for Zope and Handlebars for JS
-* Jenkins, Sentry
-* Vagrant, Saltstack
-* Peewee ORM
-* GIT and SVN (through git-svn)
-* Salt (orchestration and configuration management)
-* Docker, systemd-nspawn containers
+I am an Engineer with a diploma in Information Engineering.
+
+I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
+
+I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge
+
+Recently, I've started to expand my knowledge with Golang and Scala - Functional Programming.
+
+Engaged in organizing the team, always trying to improve the work processes.
+
+Able to decompose complex tasks, evaluate, implement and coordinate with the team.
+
+Since I'm interested in Machine Learning and Data Science, I have invested significant time to learn about these topics.
+
+The technologies I have worked with:
+
+Web Development:
+
+    + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
+    + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
+    + DB: Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
+
+Machine Learning and Data Analysis:
+
+    + Scikit-learn, Tensorflow, Keras, SystemML
+    + Pandas, Numpy
+    + Matplotlib, Seaborn, Plotly, Folium, Jupiter Notebook
+    + OpenCV
+    + Apache Spark
+    + Hadoop, MapReduce
+    + Octave
+    + Google Cloud, IBM Cloud
+
+Others:
+
+    + Salt (Orchestration and Configuration Management)
+    + Docker, systemd-nspawn containers, libvirt, Vagrant, Terraform
+    + libvirt, Vagrant, Terraform
+    + Java and C++
+    + GraphQL
+    + RabbitMQ, ZeroMQ
+    + Jenkins, Sentry
+    + Packaging
+    + Celery
+    + GIT
+
+
+`[See the courses section] <http://dincamihai.github.io/#courses>`_
+
+
+Languages
+---------
+
+    - English - Advanced
+    - German - Intermediary
+    - Italian - Intermediary
 
 
 Experience - Web Development
 ----------------------------
 
-Python Developer
-^^^^^^^^^^^^^^^^
+Python Developer - SUSE Linux GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 April 2016 - Present
 
-* Package (using OBS), develop and maintain OpenSUSE's Salt package
-* Develop and maintain tool to automatically test the Salt package on supported operating systems using Docker containers
-* Fix bugs and minor changes in SUSE Manager - Java component
+* Work on integrating Salt with SUSE Manager
+* Develop, package and maintain the Salt package for SUSE and OpenSUSE
+* Test the Salt package on SUSE Manager supported OSs using Docker
+* Fix bugs and implement features in SUSE Manager - Java component
 * Help improving scalability and performance
+* Debug complex setups consisting of multiple running services and distributed systems
 
-Web Developer
-^^^^^^^^^^^^^
+Web Developer - Freeelance
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 October 2013 – April 2016
 
 * Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
@@ -79,7 +126,6 @@ Projects
     + implement new functionality
     + add BDD style tests for permissions to serve as documentation and better organisation of the tests
 
-
 `Hotel Maintenance Platform <http://roomchecking.com>`_
 *******************************************************
 * stack:
@@ -89,7 +135,6 @@ Projects
     + implement filtering and sorting capabilities
     + create a state machine wizard to allow json configuration of the states
 
-
 `AgriPlace <http://www.agriplace.org>`_
 ***************************************
 * stack: Django, Angular.js, MySQL, coffescript
@@ -98,6 +143,7 @@ Projects
     + build the API
     + add functional tests
     + small frontend contribution (Angular.js)
+
 
 Web Developer - `Eau de Web <http://www.eaudeweb.ro/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -180,17 +226,40 @@ Education
 Courses
 ^^^^^^^
 
-* Trainee OJT A318/319/320/321 CFM-56 - TAROM
-* B2 Part-66 License
+* `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
+* `Programming with Google Go Specialization <https://www.coursera.org/account/accomplishments/specialization/certificate/F6QTTASXTQBY>`_
+* `IBM - Applied Data Science Specialist <https://www.youracclaim.com/profile/badges/d8161db4-e51d-4914-8f0c-895481fba561>`_
+* `Coursera - IBM - Advanced Machine Learning and Signal Processing <https://www.coursera.org/account/accomplishments/verify/9BEMXNW7YM8D>`_
+* `Coursera - IBM - Fundamentals of Scalable Data Science <https://www.coursera.org/account/accomplishments/verify/P6ECMC9KJMQX>`_
+* `Coursera - IBM - Applied Data Science Capstone <https://www.coursera.org/account/accomplishments/verify/2NSFRX6K8GDJ>`_
+* `Coursera - IBM - Data Visualization with Python <https://www.coursera.org/account/accomplishments/verify/CR3DJYXKARLJ>`_
+* `Coursera - IBM - Data Analysis with Python <https://www.coursera.org/account/accomplishments/verify/JHVJ4DYQHSUZ>`_
+* `Coursera - IBM - Python for Applied Data Science <https://www.coursera.org/account/accomplishments/verify/DC2V8ERPZ7ZK>`_
+* Udacity - Self-Driving Car Engineer (Term1 completed)
+* `Coursera - Sequence Models <https://www.coursera.org/account/accomplishments/verify/SFVSAU7DWRP5>`_
+* `Coursera - Convolutional Neural Networks <https://www.coursera.org/account/accomplishments/verify/6G3R45CEH3NP>`_
+* `Coursera - Structuring Machine Learning Projects <https://www.coursera.org/account/accomplishments/verify/W3VLWUVCTTG5>`_
+* `Coursera - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <https://www.coursera.org/account/accomplishments/verify/Z4VXQ6SED9PM>`_
+* `Coursera - Neural Networks and Deep Learning <https://www.coursera.org/account/accomplishments/verify/F6BHNA4DES46>`_
+* Coursera - Machine Learning - Andrew Ng
+* C++ for programmers - Udacity
+* C++ - sololearn
+* Statistics and Probability - KhanAcademy
+* Scrum Training - SUSE
 * Airbus A320 - B2 Course
+* B2 Part-66 License
+* Trainee OJT A318/319/320/321 CFM-56 - TAROM
+
 
 Degrees
 ^^^^^^^
+
 
 Information Engineering Degree
 """"""""""""""""""""""""""""""
 Electrical, Electronics and Communications Engineering - "Politehnica" University of Bucharest
 2002 – 2008
+
 
 Relevant Courses
 ****************
@@ -203,12 +272,14 @@ Relevant Courses
 * Computer Architecture
 * Computer Networks
 * PHP
+* Statistics and Probability
 
 
 Aid Programmer - Level 2
 """"""""""""""""""""""""
 "I.L. Caragiale" College of Bucharest
 1998 - 2002
+
 
 Relevant Courses
 ****************
