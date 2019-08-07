@@ -77,8 +77,8 @@ Languages
 Experience - Web Development
 ----------------------------
 
-Python Developer
-^^^^^^^^^^^^^^^^
+Python Developer - SUSE Linux GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 April 2016 - Present
 
 * Work on integrating Salt with SUSE Manager
@@ -88,8 +88,8 @@ April 2016 - Present
 * Help improving scalability and performance
 * Debug complex setups consisting of multiple running services and distributed systems
 
-Web Developer
-^^^^^^^^^^^^^
+Web Developer - Freeelance
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 October 2013 – April 2016
 
 * Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
