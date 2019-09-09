@@ -226,6 +226,8 @@ Education
 Courses
 ^^^^^^^
 
+* `Parallel programming in Scala <https://www.coursera.org/account/accomplishments/certificate/M82E6AVGYLGZ>`_
+* `Functional Program Design in Scala <https://www.coursera.org/account/accomplishments/certificate/3S5LD6QEER6S>`_
 * `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
 * `Programming with Google Go Specialization <https://www.coursera.org/account/accomplishments/specialization/certificate/F6QTTASXTQBY>`_
 * `IBM - Applied Data Science Specialist <https://www.youracclaim.com/profile/badges/d8161db4-e51d-4914-8f0c-895481fba561>`_
