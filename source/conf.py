@@ -129,10 +129,11 @@ html_theme = 'alabaster'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+import datetime
+html_title = datetime.datetime.now().strftime("%d-%m-%Y")
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+html_short_title = datetime.datetime.now().strftime("%d-%m-%Y")
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
