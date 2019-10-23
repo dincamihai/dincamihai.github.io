@@ -88,7 +88,7 @@ April 2016 - Present
 * Help improving scalability and performance
 * Debug complex setups consisting of multiple running services and distributed systems
 
-Web Developer - Freeelance
+Web Developer - Freelance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 October 2013 – April 2016
 
