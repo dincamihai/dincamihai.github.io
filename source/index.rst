@@ -1,6 +1,8 @@
 Mihai Dincă - Resume
 ====================
 
+**Nürnberg, Germany**
+
 
 Contact
 -------
@@ -88,8 +90,8 @@ April 2016 - Present
 * Help improving scalability and performance
 * Debug complex setups consisting of multiple running services and distributed systems
 
-Web Developer - Freeelance
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Web Developer - Freelance
+^^^^^^^^^^^^^^^^^^^^^^^^^
 October 2013 – April 2016
 
 * Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
@@ -226,6 +228,7 @@ Education
 Courses
 ^^^^^^^
 
+* `Big Data Analysis with Scala and Spark <https://www.coursera.org/account/accomplishments/verify/8HY38CR7PNYH>`_
 * `Parallel programming in Scala <https://www.coursera.org/account/accomplishments/certificate/M82E6AVGYLGZ>`_
 * `Functional Program Design in Scala <https://www.coursera.org/account/accomplishments/certificate/3S5LD6QEER6S>`_
 * `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
