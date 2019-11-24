@@ -22,9 +22,7 @@ I am an Engineer with a diploma in Information Engineering.
 
 I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
 
-I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge
-
-Recently, I've started to expand my knowledge with Golang and Scala - Functional Programming.
+I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge. As well as Scala (Functional Programming), Rust and Golang.
 
 Engaged in organizing the team, always trying to improve the work processes.
 
