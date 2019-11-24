@@ -11,7 +11,7 @@ Contact
 - **Email**: dincamihai@gmail.com
 - **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
-- **Linkedin**: http://www.linkedin.com/in/mdinca
+- **Linkedin**: https://linkedin.com/in/mdinca
 
 
 Summary
