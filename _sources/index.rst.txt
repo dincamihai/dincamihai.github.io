@@ -1,6 +1,8 @@
 Mihai Dincă - Resume
 ====================
 
+**Nürnberg, Germany**
+
 
 Contact
 -------
@@ -9,7 +11,7 @@ Contact
 - **Email**: dincamihai@gmail.com
 - **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
-- **Linkedin**: http://ro.linkedin.com/in/mdinca
+- **Linkedin**: http://www.linkedin.com/in/mdinca
 
 
 Summary
@@ -77,8 +79,8 @@ Languages
 Experience - Web Development
 ----------------------------
 
-Python Developer
-^^^^^^^^^^^^^^^^
+Python Developer - SUSE Linux GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 April 2016 - Present
 
 * Work on integrating Salt with SUSE Manager
@@ -88,8 +90,8 @@ April 2016 - Present
 * Help improving scalability and performance
 * Debug complex setups consisting of multiple running services and distributed systems
 
-Web Developer
-^^^^^^^^^^^^^
+Web Developer - Freelance
+^^^^^^^^^^^^^^^^^^^^^^^^^
 October 2013 – April 2016
 
 * Build a REST Hyperlinked API with nested resources to be used for integrating an online service with partners
@@ -226,6 +228,9 @@ Education
 Courses
 ^^^^^^^
 
+* `Big Data Analysis with Scala and Spark <https://www.coursera.org/account/accomplishments/verify/8HY38CR7PNYH>`_
+* `Parallel programming in Scala <https://www.coursera.org/account/accomplishments/certificate/M82E6AVGYLGZ>`_
+* `Functional Program Design in Scala <https://www.coursera.org/account/accomplishments/certificate/3S5LD6QEER6S>`_
 * `Functional Programming Principles in Scala <https://www.coursera.org/account/accomplishments/certificate/EV6WJ5T3XCX4>`_
 * `Programming with Google Go Specialization <https://www.coursera.org/account/accomplishments/specialization/certificate/F6QTTASXTQBY>`_
 * `IBM - Applied Data Science Specialist <https://www.youracclaim.com/profile/badges/d8161db4-e51d-4914-8f0c-895481fba561>`_
