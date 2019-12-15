@@ -225,7 +225,7 @@ Education
 
 Courses
 ^^^^^^^
-
+* `Functional Programming in Scala Specialization <https://www.coursera.org/account/accomplishments/specialization/Z5UYPKG4EF7K>`_
 * `Big Data Analysis with Scala and Spark <https://www.coursera.org/account/accomplishments/verify/8HY38CR7PNYH>`_
 * `Parallel programming in Scala <https://www.coursera.org/account/accomplishments/certificate/M82E6AVGYLGZ>`_
 * `Functional Program Design in Scala <https://www.coursera.org/account/accomplishments/certificate/3S5LD6QEER6S>`_
