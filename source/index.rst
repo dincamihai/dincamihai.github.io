@@ -236,6 +236,11 @@ Education
 
 Courses
 ^^^^^^^
+* `Architecting with Google Kubernetes Engine <https://www.coursera.org/account/accomplishments/specialization/WVZF64YJJJ3B>`_
+    - Google Cloud Platform Fundamentals: Core Infrastructure
+    - Architecting with Google Kubernetes Engine: Foundations
+    - Architecting with Google Kubernetes Engine: Workloads
+    - Architecting with Google Kubernetes Engine: Production
 * `Functional Programming in Scala Specialization <https://www.coursera.org/account/accomplishments/specialization/Z5UYPKG4EF7K>`_
 * `Big Data Analysis with Scala and Spark <https://www.coursera.org/account/accomplishments/verify/8HY38CR7PNYH>`_
 * `Parallel programming in Scala <https://www.coursera.org/account/accomplishments/certificate/M82E6AVGYLGZ>`_
