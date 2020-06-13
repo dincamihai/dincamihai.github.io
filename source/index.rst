@@ -74,12 +74,23 @@ Languages
     - Italian - Intermediary
 
 
-Experience - Web Development
-----------------------------
+Experience - Software Engineering
+---------------------------------
+
+Backend Lead Engineer (reservations)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+January 2020 - Present
+
+* Integrate with partners (Google, Apple, + other service providers)
+    - contact person to discuss the integration details
+    - drive the implementation
+* Code reviews
+* Discuss implementations with the developers (when required)
+* Debug and development involvement
 
 Python Developer - SUSE Linux GmbH
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-April 2016 - Present
+April 2016 - December 2019
 
 * Work on integrating Salt with SUSE Manager
 * Develop, package and maintain the Salt package for SUSE and OpenSUSE
