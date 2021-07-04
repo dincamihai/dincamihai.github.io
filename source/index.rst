@@ -63,16 +63,7 @@ Others:
     + Celery
     + GIT
 
-
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
-
-
-Languages
----------
-
-    - English - Advanced
-    - German - Intermediary
-    - Italian - Intermediary
 
 
 Experience - Software Engineering
@@ -323,3 +314,11 @@ Relevant Courses
 * Data Structures and Algorithms
 * Mathematics
 * Physics
+
+
+Languages
+---------
+
+    - English - Advanced
+    - German - Intermediary
+    - Italian - Intermediary
