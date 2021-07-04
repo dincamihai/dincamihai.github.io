@@ -37,6 +37,7 @@ Web Development:
     + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
     + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
     + DB: Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
+    + Golang
 
 Machine Learning and Data Analysis:
 
@@ -77,16 +78,28 @@ Languages
 Experience - Software Engineering
 ---------------------------------
 
-Backend Lead Engineer (reservations)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-January 2020 - Present
+Software Engineer - Exasol GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Apr 2021 - Present
 
-* Integrate with partners (Google, Apple, + other service providers)
-    - contact person to discuss the integration details
-    - drive the implementation
+* Developing on the distributed SaaS platform with AWS (Python + Golang + Bash)
+* Code refactoring
+* Testing and workflow improvements
+* Level-3 Support
+
+Various Projecs
+^^^^^^^^^^^^^^^
+January 2020 - May 2021
+
+* Various service providers API integrations
+    - Google Maps venue availability and reservation
+    - Payments integration with Stripe
+    - Apple Login
+* Web scraping
+* Test performance - data collection, measurement and improvement
+* Data storage and SQL queries optimisation
+* Visualisations in Graphana
 * Code reviews
-* Discuss implementations with the developers (when required)
-* Debug and development involvement
 
 Python Developer - SUSE Linux GmbH
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
