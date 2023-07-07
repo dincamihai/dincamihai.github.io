@@ -69,12 +69,15 @@ Others:
 Experience - Software Engineering
 ---------------------------------
 
-Software Engineer - Exasol GmbH
+(Lead) Software Engineer - Exasol GmbH
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Apr 2021 - Present
+Apr 2021 - 2022
 
+* Payments Integration
+* Release & Migrations
+* Devops
+* AWS Cloudformation & Serverless
 * Developing on the distributed SaaS platform with AWS (Python + Golang + Bash)
-* Code refactoring
 * Testing and workflow improvements
 * Level-3 Support
 
