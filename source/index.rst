@@ -81,7 +81,7 @@ Apr 2021 - 2022
 * Developing on the distributed SaaS platform with AWS, Python/Golang/Bash
 * Testing and workflow improvements
 * Level-3 Support
-* Regular 1-on-1s
+* Regular 1-on-1s with team members
 * Interview for SRE and Backend roles
 * Establish migration path to cloud native and event driven
 
