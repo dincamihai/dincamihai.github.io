@@ -74,12 +74,16 @@ Experience - Software Engineering
 Apr 2021 - 2022
 
 * Payments Integration
+* Auth0 Integration and Migration from Okta
 * Release & Migrations
 * Devops
 * AWS Cloudformation & Serverless
-* Developing on the distributed SaaS platform with AWS (Python + Golang + Bash)
+* Developing on the distributed SaaS platform with AWS, Python/Golang/Bash
 * Testing and workflow improvements
 * Level-3 Support
+* Regular 1-on-1s
+* Interview for SRE and Backend roles
+* Establish migration path to cloud native and event driven
 
 Various Projecs
 ^^^^^^^^^^^^^^^
