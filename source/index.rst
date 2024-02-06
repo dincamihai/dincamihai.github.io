@@ -18,17 +18,11 @@ Summary
 -------
 
 
-I am an Engineer with a diploma in Information Engineering.
-
-I have experience in Web Developmont, Systems Programming, APIs and Machine Learning (traditional and Deep Learning).
-
-I mainly use Python, but I also have Javascrip (Front-end), Java and C++ knowledge. As well as Scala (Functional Programming), Rust and Golang.
-
-Engaged in organizing the team, always trying to improve the work processes.
-
-Able to decompose complex tasks, evaluate, implement and coordinate with the team.
-
-Since I'm interested in Machine Learning and Data Science, I have invested significant time to learn about these topics.
+I am an Engineer with a diploma in Information Engineering and experience with Python, Golang, Terraform and AWS.
+I have a pragmatic approach with focus on delivery.
+I use Agile Methodologies with "manage work not people" philosophy.
+I focus on building a diverse team and a safe environment.
+I have many years of experience working in remote environments and I'm a continuous learner.
 
 The technologies I have worked with:
 
@@ -36,7 +30,7 @@ Web Development:
 
     + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
     + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
-    + DB: Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
+    + DB: Exasol, Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
     + Golang
 
 Machine Learning and Data Analysis:
