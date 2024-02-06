@@ -69,6 +69,25 @@ Others:
 Experience - Software Engineering
 ---------------------------------
 
+Technical Engineering Manager - Exasol GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022 - NOW
+
+* Servant leader using Agile Methodology with "manage work not people" philosophy
+* Facilitate dailies with focus on delivery
+* Improve processes through retrospectives and follow-ups in 1on1s
+* Design technical interviews, hire and onboard Python/Go/Cloud Engineers
+* Gather requirements and refine tickets async with multiple participants
+* Participate in work planning
+* Communicate and offer support to partners integrating with Exasol SaaS
+* Release Management
+* Backend contributions with focus on tests (Python/Golang/AWS/Terraform/SQL/Serverless)
+* Participate in calls with AWS with focus on cost reduction and architecture improvement
+* Focus on reducing release downtime and infrastructure as code
+* Implement monitoring and sanity checks
+* Implement/Maintain 3rd-party services integrations (Identity Provider and Billing)
+* L3 Support with RCA and backup for cloud engineering
+
 (Lead) Software Engineer - Exasol GmbH
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Apr 2021 - 2022
