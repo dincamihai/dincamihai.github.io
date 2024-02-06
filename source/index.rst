@@ -19,9 +19,13 @@ Summary
 
 
 I am an Engineer with a diploma in Information Engineering and experience with Python, Golang, Terraform and AWS.
+
 I have a pragmatic approach with focus on delivery.
+
 I use Agile Methodologies with "manage work not people" philosophy.
+
 I focus on building a diverse team and a safe environment.
+
 I have many years of experience working in remote environments and I'm a continuous learner.
 
 The technologies I have worked with:
