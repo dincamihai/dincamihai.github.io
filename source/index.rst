@@ -88,7 +88,7 @@ Technical Engineering Manager - Exasol GmbH
 * Implement/Maintain 3rd-party services integrations (Identity Provider and Billing)
 * L3 Support with RCA and backup for cloud engineering
 
-(Lead) Software Engineer - Exasol GmbH
+Software Engineer - Exasol GmbH
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Apr 2021 - 2022
 
@@ -100,8 +100,6 @@ Apr 2021 - 2022
 * Developing on the distributed SaaS platform with AWS, Python/Golang/Bash
 * Testing and workflow improvements
 * Level-3 Support
-* Regular 1-on-1s with team members
-* Interview for SRE and Backend roles
 * Establish migration path to cloud native and event driven
 
 Various Projecs
