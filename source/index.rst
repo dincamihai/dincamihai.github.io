@@ -9,7 +9,6 @@ Contact
 
 - **Online Resume**: https://dincamihai.github.io
 - **Email**: dincamihai@gmail.com
-- **Skype ID**: dincamihai.skype
 - **Github**: https://github.com/dincamihai
 - **Linkedin**: https://linkedin.com/in/mdinca
 
