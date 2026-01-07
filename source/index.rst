@@ -16,49 +16,16 @@ Contact
 Summary
 -------
 
+I am a **Lead/Staff Backend Engineer** and **Architect** specializing in high-performance, data-intensive SaaS platforms. I apply structured frameworks like **SPAR** to align technical implementation with business requirements.
 
-I am an Engineer with a diploma in Information Engineering and experience with Python, Golang, Terraform and AWS.
+My core focus:
 
-I have a pragmatic approach with focus on delivery.
+*   **Distributed Systems Design:** Architecting scalable, event-driven systems on AWS (Serverless, SQS/SNS, Step Functions).
+*   **Technical Leadership:** **Servant Manager** driving architectural decisions, mentoring engineers, and fostering a "manage work, not people" culture.
+*   **System Resilience:** Evolving monolithic architectures into decoupled systems to reduce blast radius and eliminate release friction.
+*   **Process & Security:** Contributing to **ISO 27001 / ISMS** frameworks to align engineering with compliance goals, focusing on risk assessment and asset management.
 
-I use Agile Methodologies with "manage work not people" philosophy.
-
-I focus on building a diverse team and a safe environment.
-
-I have many years of experience working in remote environments and I'm a continuous learner.
-
-The technologies I have worked with:
-
-Web Development:
-
-    + Python: Flask, Django, Plone, Zope, Jinja, Peewee, pytest, Nose
-    + Javascript: Backbone-js, Marrionette-js, Underscore-js, JQuery, Highcharts, Handlebars, coffeescript
-    + DB: Exasol, Postgres, hstore, MySQL, Virtuoso(RDF database), SPARQL, MongoDB, Redis, CouchDB
-    + Golang
-
-Machine Learning and Data Analysis:
-
-    + Scikit-learn, Tensorflow, Keras, SystemML
-    + Pandas, Numpy
-    + Matplotlib, Seaborn, Plotly, Folium, Jupiter Notebook
-    + OpenCV
-    + Apache Spark
-    + Hadoop, MapReduce
-    + Octave
-    + Google Cloud, IBM Cloud
-
-Others:
-
-    + Salt (Orchestration and Configuration Management)
-    + Docker, systemd-nspawn containers, libvirt, Vagrant, Terraform
-    + libvirt, Vagrant, Terraform
-    + Java and C++
-    + GraphQL
-    + RabbitMQ, ZeroMQ
-    + Jenkins, Sentry
-    + Packaging
-    + Celery
-    + GIT
+**Core Tech Stack:** Python, Golang, AWS (Step Functions, SQS/SNS, Lambda), Terraform, SQL/NoSQL.
 
 `[See the courses section] <http://dincamihai.github.io/#courses>`_
 
@@ -66,38 +33,46 @@ Others:
 Experience - Software Engineering
 ---------------------------------
 
-Technical Engineering Manager - Exasol GmbH
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-2022 - NOW
+Technical Engineering Manager & Staff Engineer - Exasol GmbH
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Apr 2021 - NOW
 
-* Servant leader using Agile Methodology with "manage work not people" philosophy
-* Facilitate dailies with focus on delivery
-* Improve processes through retrospectives and follow-ups in 1on1s
-* Design technical interviews, hire and onboard Python/Go/Cloud Engineers
-* Gather requirements and refine tickets async with multiple participants
-* Participate in work planning
-* Communicate and offer support to partners integrating with Exasol SaaS
-* Release Management
-* Backend contributions with focus on tests (Python/Golang/AWS/Terraform/SQL/Serverless)
-* Participate in calls with AWS with focus on cost reduction and architecture improvement
-* Focus on reducing release downtime and infrastructure as code
-* Implement monitoring and sanity checks
-* Implement/Maintain 3rd-party services integrations (Identity Provider and Billing)
-* L3 Support with RCA and backup for cloud engineering
+*   **Situation:** Exasol provided its high-performance database as a SaaS offering, initially built on a monolithic control plane.
+*   **Problem:** Operations relied on a fragile polling mechanism, requiring downtime for releases. The design lacked customer isolation (large blast radius), and the billing system couldn't support new instance families (r6id) needed for global growth.
+*   **Action:** Led a 7-person team to implement a decoupled, **event-driven architecture** (AWS Step Functions, SQS, SNS) in parallel. Managed a **phased rollout strategy** to migrate operations incrementally and extended the billing engine to support new hardware and regions.
+*   **Result:** Achieved release reliability by decoupling services, improved system resilience by reducing the blast radius, and enabled business growth by launching new global regions and instance families.
 
-Software Engineer - Exasol GmbH
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Apr 2021 - 2022
+*   **Situation:** The SaaS platform required ISO 27001 certification to meet enterprise security standards.
+*   **Problem:** The platform lacked documented policies, procedures, and a comprehensive asset inventory. Without this visibility, we could not identify missing controls, assess risks, or align with the corporate ISMS.
+*   **Action:** Attended specialized ISO 27001 training to support the technical integration into the corporate ISMS. I established the asset inventory, implemented a risk assessment framework, and authored policies covering Confidentiality, Integrity, and Availability (CIA). I also collaborated with the AWS TAM on security evaluations.
+*   **Result:** Established a verifiable security posture for the SaaS platform and aligned technical operations with the corporate ISMS, facilitating the certification process.
 
-* Payments Integration
-* Auth0 Integration and Migration from Okta
-* Release & Migrations
-* Devops
-* AWS Cloudformation & Serverless
-* Developing on the distributed SaaS platform with AWS, Python/Golang/Bash
-* Testing and workflow improvements
-* Level-3 Support
-* Establish migration path to cloud native and event driven
+*   **Situation:** The platform relied on a legacy monitoring system to track service health.
+*   **Problem:** The system generated frequent false positives (alert fatigue) and was a "black box," making it difficult to debug why alerts fired or failed to trigger.
+*   **Action:** Designed and implemented an **AWS-native, event-driven alerting engine**. I utilized **DynamoDB** to manage alerting parameters dynamically, allowing for granular control without code deployments.
+*   **Result:** Effectively eliminated false alerts, provided full auditability of alert evaluations through logging, and enabled support teams to troubleshoot issues independently.
+
+*   **Situation:** The SaaS development team needed to scale from a single backend engineer to a full cross-functional team (7 members) to meet product goals.
+*   **Problem:** Initially, the team lacked UI expertise and lacked structured hiring or onboarding processes for the new multi-disciplinary roles.
+*   **Action:** Designed the technical interview process and conducted evaluations to hire two UI, two backend, and two cloud engineers. I established an onboarding framework and a bi-weekly 1-on-1 structure focused on collaboration and roadmap delivery.
+*   **Result:** Successfully scaled the team to 7 members, established a collaborative culture, and delivered all planned roadmap items for 2025.
+
+**Key Responsibilities:**
+*   **Architecture & Development:** Hands-on development of core SaaS components using Python, Golang, and AWS Serverless.
+*   **Technical Leadership & Servant Management:** Driving cross-functional technical initiatives, conducting architectural design reviews, and mentoring senior/mid-level engineers. I manage operational overhead (support, releases, rollout strategies) and perform background refactoring to enable the team to focus on feature implementation. I conducted bi-weekly 1-on-1s, managed performance reviews, and established frameworks for goal setting and evaluation.
+*   **Roadmap & Planning:** Contributing to roadmap definition by identifying and sequencing work item dependencies. Defining rollout strategies and coordinating task distribution to align with delivery timelines.
+*   **Business & Hardware Expansion:** Extended the billing engine to support new instance families (r6id) and managed the technical expansion into multiple global AWS regions.
+*   **Stack:** Python, Golang, AWS, Terraform, SQL, Serverless.
+*   **Release Reliability:** Decoupled core services, moving away from heavy monolithic releases and reducing deployment-related downtime.
+*   **Enhanced Isolation:** Improved system resilience by ensuring better isolation between customer environments, reducing the potential blast radius.
+*   **Business Enablement:** Integrated new instance families (e.g., r6id) into the billing system and expanded platform operations into new global regions.
+
+**Key Responsibilities:**
+*   **Architecture & Development:** Hands-on development of core SaaS components using Python, Golang, and AWS Serverless.
+*   **Technical Leadership & Servant Management:** Driving cross-functional technical initiatives, conducting architectural design reviews, and mentoring senior/mid-level engineers. I manage operational overhead (support, releases, rollout strategies) and perform background refactoring to enable the team to focus on feature implementation. I conducted bi-weekly 1-on-1s, managed performance reviews, and established frameworks for goal setting and evaluation.
+*   **Roadmap & Planning:** Contributing to roadmap definition by identifying and sequencing work item dependencies. Defining rollout strategies and coordinating task distribution to align with delivery timelines.
+*   **Business & Hardware Expansion:** Extended the billing engine to support new instance families (r6id) and managed the technical expansion into multiple global AWS regions.
+*   **Stack:** Python, Golang, AWS, Terraform, SQL, Serverless.
 
 Various Projecs
 ^^^^^^^^^^^^^^^
@@ -270,6 +245,7 @@ Education
 
 Courses
 ^^^^^^^
+* `ISO 27001 - Information Security Management System (ISMS)`
 * `Architecting with Google Kubernetes Engine <https://www.coursera.org/account/accomplishments/specialization/WVZF64YJJJ3B>`_:
 
     - Google Cloud Platform Fundamentals: Core Infrastructure
