@@ -16,7 +16,7 @@ Contact
 Summary
 -------
 
-I am a **Lead/Staff Backend Engineer** and **Architect** specializing in high-performance, data-intensive SaaS platforms. I apply structured frameworks like **SPAR** to align technical implementation with business requirements.
+I am a **Lead/Staff Backend Engineer** and **Architect** specializing in high-performance, data-intensive SaaS platforms.
 
 My core focus:
 
@@ -57,17 +57,14 @@ Apr 2021 - NOW
 *   **Action:** Designed the technical interview process and conducted evaluations to hire two UI, two backend, and two cloud engineers. I established an onboarding framework and a bi-weekly 1-on-1 structure focused on collaboration and roadmap delivery.
 *   **Result:** Successfully scaled the team to 7 members, established a collaborative culture, and delivered all planned roadmap items for 2025.
 
-**Key Responsibilities:**
-*   **Architecture & Development:** Hands-on development of core SaaS components using Python, Golang, and AWS Serverless.
-*   **Technical Leadership & Servant Management:** Driving cross-functional technical initiatives, conducting architectural design reviews, and mentoring senior/mid-level engineers. I manage operational overhead (support, releases, rollout strategies) and perform background refactoring to enable the team to focus on feature implementation. I conducted bi-weekly 1-on-1s, managed performance reviews, and established frameworks for goal setting and evaluation.
-*   **Roadmap & Planning:** Contributing to roadmap definition by identifying and sequencing work item dependencies. Defining rollout strategies and coordinating task distribution to align with delivery timelines.
-*   **Business & Hardware Expansion:** Extended the billing engine to support new instance families (r6id) and managed the technical expansion into multiple global AWS regions.
-*   **Stack:** Python, Golang, AWS, Terraform, SQL, Serverless.
+**Key Results:**
+
 *   **Release Reliability:** Decoupled core services, moving away from heavy monolithic releases and reducing deployment-related downtime.
 *   **Enhanced Isolation:** Improved system resilience by ensuring better isolation between customer environments, reducing the potential blast radius.
 *   **Business Enablement:** Integrated new instance families (e.g., r6id) into the billing system and expanded platform operations into new global regions.
 
 **Key Responsibilities:**
+
 *   **Architecture & Development:** Hands-on development of core SaaS components using Python, Golang, and AWS Serverless.
 *   **Technical Leadership & Servant Management:** Driving cross-functional technical initiatives, conducting architectural design reviews, and mentoring senior/mid-level engineers. I manage operational overhead (support, releases, rollout strategies) and perform background refactoring to enable the team to focus on feature implementation. I conducted bi-weekly 1-on-1s, managed performance reviews, and established frameworks for goal setting and evaluation.
 *   **Roadmap & Planning:** Contributing to roadmap definition by identifying and sequencing work item dependencies. Defining rollout strategies and coordinating task distribution to align with delivery timelines.
@@ -208,36 +205,16 @@ Central Data Repository Converters
     + tweak and create new converters (eg: convert map files to jpg)
 
 
-Experience - Aircraft Maintenance
----------------------------------
+Experience - Safety-Critical & Regulated Industries
+---------------------------------------------------
 
-Base Maintenance A320 - Meridiana Maintenance
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-October 2011 – December 2011 (3 months)
+Aircraft Maintenance Engineer & Referent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2006 - 2011
 
-Responsibilities
-
-* "C" Check tasks
-
-Aircraft Engineer - Jetran Air
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-October 2011 – December 2011 (3 years 5 months)
-
-Responsibilities
-
-* Reliability Reports - I've built a Java web app to generate the reports
-* Network and System Administrator
-* Training Manager
-* Boeing Primary Focal
-
-Engineering Referent - Jetran Asset Management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-November 2006 - June 2008 (1 year 8 months)
-
-Responsibilities
-
-* Network and System Administrator
-* Boeing Primary Focal
+*   Experience working within strictly regulated environments (EASA Part-144/Part-66), focusing on safety-critical engineering, reliability reporting, and training management.
+*   Roles included Engineering Referent and Boeing Primary Focal, requiring high attention to detail and adherence to complex procedural frameworks.
+*   Developed custom internal software (Java) to automate reliability reporting and manage system administration.
 
 
 Education
